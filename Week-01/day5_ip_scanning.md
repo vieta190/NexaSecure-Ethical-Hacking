@@ -15,3 +15,4 @@ ping -c 3 10.0.2.2
 ![IP & Routing Configuration](screenshots/day5_kali1.png)
 ![DNS Resolution & Ping Test](screenshots/day5_kali2.png)
 ![Netdiscover Local Host Discovery](screenshots/day5_kali3.png)
+![Network Scan Output](screenshots/day5_kali4.png)

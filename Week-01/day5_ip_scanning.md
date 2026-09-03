@@ -12,4 +12,6 @@ nslookup google.com
 sudo netdiscover -r 10.0.2.0/24 -c 3
 ping -c 3 10.0.2.2
 ## Evidence
-![Network Scan Verification](screenshots/day5_network_scan.png)
+![IP & Routing Configuration](screenshots/day5_kali1.png)
+![DNS Resolution & Ping Test](screenshots/day5_kali2.png)
+![Netdiscover Local Host Discovery](screenshots/day5_kali3.png)

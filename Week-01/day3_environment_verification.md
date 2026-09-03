@@ -13,5 +13,6 @@ df -h /
 lsb_release -a
 uname -a
 ip -4 a
+```
 ## Evidence
 ![Kali Boot Verification](screenshots/day3_kali_boot2.png)

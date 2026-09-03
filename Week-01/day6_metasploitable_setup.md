@@ -16,3 +16,7 @@ ping -c 3 192.168.56.103
 # Remote Interactive Session (Executed on Kali)
 telnet 192.168.56.103
 ```
+## Evidence
+![Metasploitable Target IP Resolution](screenshots/day6_meta.png)
+![ICMP Echo Connectivity Check](screenshots/day6_kali2.png)
+![Active Remote Session Login](screenshots/day6_kali.png)

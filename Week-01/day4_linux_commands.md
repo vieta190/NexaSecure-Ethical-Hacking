@@ -27,10 +27,10 @@ ls -l target.txt
 
 # System & Process Inspection
 ps aux | head -n 10
+whoami
+uname -r
 ```
 ## Evidence
 ![Directory & Workspace Operations](screenshots/day4_kali5.png)
 ![File Processing & Permissions](screenshots/day4_kali6.png)
 ![System & Process Inspection](screenshots/day4_kali7.png)
-whoami
-uname -r
